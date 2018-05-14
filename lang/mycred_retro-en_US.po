@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCRED Retro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-22 02:58+0000\n"
+"PO-Revision-Date: 2016-08-22 02:58+0000\n"
+"Last-Translator: mycreddemo <gabriel.s@merovingi.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: importers/retro-users.php:23
+msgid "%s Retroactive Registrations"
+msgstr ""
+
+#: importers/retro-users.php:24
+msgid ""
+"Award or deduct points from your users for being a member on your website."
+msgstr ""
+
+#: importers/retro-users.php:41 importers/retro-content.php:41 
+#: importers/retro-comments.php:41
+msgid "Introduction"
+msgstr ""
+
+#: importers/retro-users.php:50 importers/retro-users.php:189
+msgid "Eligible Users"
+msgstr ""
+
+#: importers/retro-users.php:56 importers/retro-users.php:130 
+#: importers/retro-content.php:56 importers/retro-content.php:134 
+#: importers/retro-comments.php:56 importers/retro-comments.php:159
+msgid "Amount"
+msgstr ""
+
+#: importers/retro-users.php:61 importers/retro-content.php:61 
+#: importers/retro-comments.php:61
+msgid "Log Entries"
+msgstr ""
+
+#: importers/retro-users.php:66 importers/retro-content.php:66 
+#: importers/retro-comments.php:66
+msgid "For more information:"
+msgstr ""
+
+#: importers/retro-users.php:67 importers/retro-content.php:67 
+#: importers/retro-comments.php:67
+msgid "myCRED Website"
+msgstr ""
+
+#: importers/retro-users.php:68 importers/retro-content.php:68 
+#: importers/retro-comments.php:68
+msgid "Documentation"
+msgstr ""
+
+#: importers/retro-users.php:109
+msgid "Retroactive Registrations"
+msgstr ""
+
+#: importers/retro-users.php:109 importers/retro-content.php:108 
+#: importers/retro-comments.php:138
+msgid "All Tools"
+msgstr ""
+
+#: importers/retro-users.php:110 importers/retro-content.php:109 
+#: importers/retro-comments.php:139
+msgid "Remember to disable this plugin once you are done using it!"
+msgstr ""
+
+#: importers/retro-users.php:116
+msgid "No users found."
+msgstr ""
+
+#: importers/retro-users.php:128
+msgid "Role"
+msgstr ""
+
+#: importers/retro-users.php:129 importers/retro-content.php:133 
+#: importers/retro-comments.php:158
+msgid "Point Type"
+msgstr ""
+
+#: importers/retro-users.php:131 importers/retro-content.php:135 
+#: importers/retro-comments.php:160
+msgid "Log Entry Template"
+msgstr ""
+
+#: importers/retro-users.php:132
+msgid "Users"
+msgstr ""
+
+#: importers/retro-users.php:139
+msgid "Select Role"
+msgstr ""
+
+#: importers/retro-users.php:159 importers/retro-content.php:164 
+#: importers/retro-comments.php:178
+msgid "amount"
+msgstr ""
+
+#: importers/retro-users.php:162 importers/retro-content.php:167 
+#: importers/retro-comments.php:181
+msgid "no log entry"
+msgstr ""
+
+#: importers/retro-users.php:169
+msgid ""
+"When adding a log entry, use the date the user registered, and not the "
+"current date."
+msgstr ""
+
+#: importers/retro-users.php:172 importers/retro-content.php:177 
+#: importers/retro-comments.php:192
+msgid "Run Task"
+msgstr ""
+
+#: importers/retro-users.php:183 importers/retro-content.php:188 
+#: importers/retro-comments.php:203
+msgid "Stop Task"
+msgstr ""
+
+#: importers/retro-users.php:185 importers/retro-content.php:190 
+#: importers/retro-comments.php:205
+msgid "Task Report"
+msgstr ""
+
+#: importers/retro-users.php:190 importers/retro-content.php:195 
+#: importers/retro-comments.php:210
+msgid "Completed"
+msgstr ""
+
+#: importers/retro-users.php:191 importers/retro-content.php:196 
+#: importers/retro-comments.php:211
+msgid "Excluded"
+msgstr ""
+
+#: importers/retro-users.php:192 importers/retro-content.php:198 
+#: importers/retro-comments.php:213
+msgid "Remaining"
+msgstr ""
+
+#: importers/retro-users.php:391 importers/retro-content.php:402 
+#: importers/retro-comments.php:467
+msgid ""
+"Selected point type does not exist. Please refresh this page and try again."
+msgstr ""
+
+#: importers/retro-users.php:398 importers/retro-content.php:409 
+#: importers/retro-comments.php:475
+msgid "Amount can not be zero. Please refresh this page and try again."
+msgstr ""
+
+#: importers/retro-users.php:499 importers/retro-content.php:523 
+#: importers/retro-comments.php:606
+msgid "View Log Entries"
+msgstr ""
+
+#: importers/retro-users.php:500 importers/retro-content.php:524 
+#: importers/retro-comments.php:607
+msgid "Reload Tool"
+msgstr ""
+
+#: importers/retro-content.php:23
+msgid "%s Retroactive Content"
+msgstr ""
+
+#: importers/retro-content.php:24
+msgid ""
+"Award or deduct points from your users for content they have published in "
+"the past. If you want to continue this process for future content, make sure "
+"you enable the \"Points for publishing content\" hook."
+msgstr ""
+
+#: importers/retro-content.php:50 importers/retro-content.php:194
+msgid "Eligible Content"
+msgstr ""
+
+#: importers/retro-content.php:108
+msgid "Retroactive Content"
+msgstr ""
+
+#: importers/retro-content.php:115
+msgid "No content found."
+msgstr ""
+
+#: importers/retro-content.php:132
+msgid "Post Type"
+msgstr ""
+
+#: importers/retro-content.php:136
+msgid "Content"
+msgstr ""
+
+#: importers/retro-content.php:143
+msgid "Select Post Type"
+msgstr ""
+
+#: importers/retro-content.php:174
+msgid ""
+"When adding a log entry, use the date the content was published, and not the "
+"current date."
+msgstr ""
+
+#: importers/retro-content.php:197 importers/retro-comments.php:212
+msgid "Missing User"
+msgstr ""
+
+#: importers/retro-comments.php:23
+msgid "%s Retroactive Comments"
+msgstr ""
+
+#: importers/retro-comments.php:24
+msgid ""
+"Award or deduct points from your users for past comments. If you want to "
+"continue this process for future comments, make sure you enable the \"Points "
+"for comments\" hook."
+msgstr ""
+
+#: importers/retro-comments.php:50 importers/retro-comments.php:209
+msgid "Eligible Comments"
+msgstr ""
+
+#: importers/retro-comments.php:138
+msgid "Retroactive Comments"
+msgstr ""
+
+#: importers/retro-comments.php:145
+msgid "No comments found."
+msgstr ""
+
+#: importers/retro-comments.php:157
+msgid "Comment Status"
+msgstr ""
+
+#: importers/retro-comments.php:161
+msgid "Comments"
+msgstr ""
+
+#: importers/retro-comments.php:168
+msgid "Select Comment Status"
+msgstr ""
+
+#: importers/retro-comments.php:169
+msgid "Approved Comments"
+msgstr ""
+
+#: importers/retro-comments.php:170
+msgid "Trashed Comments"
+msgstr ""
+
+#: importers/retro-comments.php:171
+msgid "Marked as SPAM Comments"
+msgstr ""
+
+#: importers/retro-comments.php:188
+msgid ""
+"When adding a log entry, use the date the comment was originally added, and "
+"not the current date."
+msgstr ""
+
+#: importers/retro-comments.php:189
+msgid ""
+"Some comments were left by users while they were logged out. If the comment "
+"authors email matches a user on the website, credit that user for the "
+"comment."
+msgstr ""
+
+#. Name of the plugin
+msgid "myCRED Retro"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows you to give out points retroactively for past events."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://mycred.me"
+msgstr ""
+
+#. Author of the plugin
+msgid "Gabriel S Merovingi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.merovingi.com"
+msgstr ""
